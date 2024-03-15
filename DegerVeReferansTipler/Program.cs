@@ -34,7 +34,7 @@
             // Çünkü artık sayilar1 sayilar2'nin adresini tutmaktadır! Eski değerleriyle işi kalmadı! O değerler garbage collector tarafından
             // bellekten silinir.
 
-
+            
 
         }
     }
