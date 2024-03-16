@@ -8,7 +8,7 @@ namespace Metotlar
 {
     class SepetManager
     {
-        public void Ekle(Urun urun) // metota parametre verdik o parametrenin tiri Urun ürün, adını da urun koyduk.
+        public void Ekle(Urun urun) // metota parametre verdik o parametrenin tipi Urun, adını da urun koyduk.
         {
             Console.WriteLine("Sepete eklendi : " + urun.Adi);
         }
