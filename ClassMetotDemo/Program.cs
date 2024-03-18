@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Musteri musteri1 = new Musteri();
+            Musteri musteri1 = new Musteri(); // -> Class'ın instance'sini oluşturduk. Yani bir örneğini. New'leyerek!
             musteri1.MusteriAdi = "Ahmet";
             musteri1.MusteriDogumYili = 1975;
             musteri1.MusteriMeslegi = "Öğretmen";

@@ -9,7 +9,7 @@ namespace GenericsIntro
     internal class MyList<T> // Ben MYList'imde T ile çalışacağım demektir. Bana bir tip ver ben aşağıyı ona göre yapılandırcam demektir. İnt, String vs.
     {
         T[] items; // MyList'in çalışabilmesi için arka planda kullanılacak diziyi oluşturuyoruz.
-        // Constructor
+        // Constructor ---> https://www.youtube.com/watch?v=_gadwBmkAJ0&t=5s
         public MyList()
         {
             items = new T[0]; // Ancak bu diziyi newlememiz ve kaç eleman tutacağını söylememiz gerek. Bunun için "ctor" kullanıyoruz. Yani constructorleri!

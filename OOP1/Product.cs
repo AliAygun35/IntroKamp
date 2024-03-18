@@ -16,5 +16,5 @@ namespace OOP1
     }
 }
 
-// Bu tür classlarda sadece özellik olur! 
+// Bu tür classlarda sadece özellik olur! "prop" yazarak tab'larız!
 // Entity, product yani varlığımız olan classımız.
